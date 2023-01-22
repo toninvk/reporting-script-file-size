@@ -1,7 +1,5 @@
 ##### Week 2: Create a Reporting Script #####
 
-#Tasks#
-
 First, import the os module with packages getsize, abspath and join to make the Python script traverse any path in the directory.
 
 The first for loop walks through the directory and finds any files that include '.'. Next, the file names are joined with the path to get the full path. Finally, the full path is printed for the files in the directory.
